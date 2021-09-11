@@ -37,7 +37,7 @@ setup(
     keywords='python chatbot facebook apiai fbchat',
 
 
-    install_requires=['fbchat','apiai'],
+    install_requires=['fbchat'],
 
    
 )
